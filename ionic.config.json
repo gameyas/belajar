@@ -1,0 +1,8 @@
+{
+  "name": "belajar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "3f0f887b"
+}
